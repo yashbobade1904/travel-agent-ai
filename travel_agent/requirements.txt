@@ -1,0 +1,14 @@
+# Core AI / LangChain
+langchain
+langchain-groq
+langchain-google-genai
+langgraph
+
+# Web framework
+streamlit
+
+# HTTP requests (for weather API)
+requests
+
+# Google AI
+google-generativeai
